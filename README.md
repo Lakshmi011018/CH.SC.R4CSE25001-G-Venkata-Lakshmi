@@ -1,7 +1,7 @@
-# Health Risk Prediction using CMGA and Baseline Models
+# Cross-Modal Gated Attention (CMGA) Framework for Multimodal Clinical Risk Stratification Using Synthetic Electronic Health Records
 
 **Student Name:** G V Lakshmi  
-**Roll Number:** CH.SC.R4CSE25002  
+**Roll Number:** CH.SC.R4CSE25001 
 **Department:** CSE, Amrita Vishwa Vidyapeetam, Chennai  
 
 ---
